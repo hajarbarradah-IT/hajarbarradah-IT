@@ -1,6 +1,6 @@
 # Hey, I'm Hajar 👋
 
-Master's student in **Intelligent Systems Engineering (M2)** at Hassan II University, Casablanca. Passionate about building intelligent systems at the intersection of **AI, Data Science, and Cybersecurity**. I love turning complex problems into elegant technical solutions — from training ML models to detecting security threats.
+Master's student in **Intelligent Systems Engineering (M2)** at Hassan II University, Casablanca. Passionate about building intelligent systems at the intersection of **AI, Networks, Systems and security**. I love turning complex problems into elegant technical solutions — from training ML models to detecting security threats.
 
 **Currently seeking:** Internship opportunities in AI, Data Science, or Cybersecurity 🚀
 
@@ -22,7 +22,7 @@ End-to-end IoT system: Arduino-based sensor network (DHT, LDR, soil moisture) + 
 Built email classification system using TF-IDF + multiple ML algorithms. Compared Logistic Regression, SVM, and Random Forest performance with honest metrics and deployed as standalone Python application.
 
 ### Big Data Analytics
-**Tech:** Hadoop · Hive · PySpark · Docker
+**Tech:** Hadoop · Nifi · PySpark · Docker 
 
 Multi-container Spark + Hadoop cluster on WSL. Ran complex analytics on NYC Taxi dataset using HiveQL, optimized queries, built real-time pipelines with NiFi for IoT data ingestion and categorization.
 
@@ -38,7 +38,7 @@ Multi-container Spark + Hadoop cluster on WSL. Ran complex analytics on NYC Taxi
 
 **Cybersecurity:** Suricata · Kali Linux · Network Analysis · IDS/IPS
 
-**Web & Databases:** Flask · Angular · Node.js · MySQL · SQLite
+**Web & Databases:** Flask · Angular · Node.js · MySQL 
 
 ## 🎯 My Approach
 
